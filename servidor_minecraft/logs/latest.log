@@ -1,0 +1,47 @@
+[00:00:09] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:00:27] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:03:50] [Server thread/INFO]: Cacharro7 was slain by Warden
+[00:04:05] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:05:03] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:06:07] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:06:30] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:22:28] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=728, y=34, z=-1740}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/skeleton/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/skeleton/normal]
+[00:22:28] [Server thread/ERROR]: Unknown structure start: nova_structures:well_oak
+[00:24:51] [Server thread/ERROR]: Unknown structure start: nova_structures:trial_dungeon
+[00:24:51] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1113, y=-32, z=-1569}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/normal]
+[00:24:51] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1113, y=-32, z=-1545}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/normal]
+[00:24:51] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1113, y=-32, z=-1557}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/normal]
+[00:27:02] [Server thread/ERROR]: Unknown structure start: nova_structures:cave_chamber
+[00:27:02] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1125, y=-32, z=-1545}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/skeleton/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/skeleton/normal]
+[00:27:02] [Server thread/ERROR]: Unknown structure start: nova_structures:shrine_combat_tier_3
+[00:27:02] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1125, y=-32, z=-1569}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/skeleton/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/skeleton/normal]
+[00:27:02] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1134, y=30, z=-1263}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:shrine/drowned/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:shrine/drowned/normal]
+[00:27:02] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1134, y=34, z=-1235}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:shrine/guardian/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:shrine/guardian/normal]
+[00:27:06] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1137, y=-32, z=-1557}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/normal]
+[00:27:06] [Server thread/WARN]: [net.minecraft.class_2586] Serialization errors:
+minecraft:trial_spawner // net.minecraft.class_8961@class_2338{x=1137, y=-32, z=-1569}: Failed to decode from map: Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/ominous]; Failed to get element ResourceKey[minecraft:trial_spawner / nova_structures:cave_chambers/zombie/normal]
+[00:27:15] [Server thread/INFO]: [Cacharro7: Set own game mode to Creative Mode]
+[00:27:34] [Server thread/INFO]: [Cacharro7: Set own game mode to Survival Mode]
+[00:48:25] [Server thread/INFO]: Cacharro7 lost connection: Disconnected
+[00:48:25] [Server thread/INFO]: Cacharro7 left the game
+[00:48:25] [Server thread/INFO]: [voicechat] Disconnecting client Cacharro7
+[00:48:29] [Server thread/INFO]: Stopping the server
+[00:48:29] [Server thread/INFO]: Stopping server
+[00:48:29] [Server thread/INFO]: Saving players
+[00:48:29] [Server thread/INFO]: Saving worlds
+[00:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[00:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[00:48:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[00:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:48:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
